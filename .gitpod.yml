@@ -1,2 +1,2 @@
 tasks:
-  - command: echo "Hello World"
+  - command: docker-compose up -d --build
