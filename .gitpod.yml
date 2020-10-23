@@ -1,2 +1,7 @@
+image:
+  file: .gitpod.Dockerfile
 tasks:
-  - command: docker-compose up -d --build
+  - command:
+    echo "Subi tudo"
+ports:
+ - port: 8000
