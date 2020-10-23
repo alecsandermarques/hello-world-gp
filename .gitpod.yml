@@ -1,2 +1,3 @@
 tasks:
   - command: echo "Hello World"
+  - command: echo "Hello World"
